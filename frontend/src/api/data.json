@@ -1,0 +1,103 @@
+[
+    {
+        "movie_id": 1,
+        "title": "Guardians of the Galaxy Vol. 2",
+        "runtime": 115,
+        "plot_summary": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father, the ambitious celestial being Ego.",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg",
+        "trailer_url": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg",
+        "imdb_rating": "7.6",
+        "rating": 4,
+        "movie_price": "45.50",
+        "director_first_name": "lokesh",
+        "director_last_name": "m",
+        "actor_images": [
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg"
+        ]
+    },
+    {
+        "movie_id": 2,
+        "title": "M*A*S*H",
+        "runtime": 115,
+        "plot_summary": "The staff of a Korean War field hospital use humor and high jinks to keep their sanity in the face of the horror of war., the ambitious celestial being Ego.",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BYTMzY2UwODktMjFiZC00NzUxLWE1M2ItOTg0YTAxMTgwMTEzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+        "trailer_url": "https://m.media-amazon.com/images/M/MV5BYTMzY2UwODktMjFiZC00NzUxLWE1M2ItOTg0YTAxMTgwMTEzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+        "imdb_rating": "7.8",
+        "rating": 3,
+        "movie_price": "45.00",
+        "director_first_name": "khan",
+        "director_last_name": "k",
+        "actor_images": [
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg"
+        ]
+    },
+    {
+        "movie_id": 3,
+        "title": "Dil Se..",
+        "runtime": 115,
+        "plot_summary": "The staff of a Korean War field hospital use humor and high jinks to keep their sanity in the face of the horror of war., the ambitious celestial being Ego.",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNWFjNGIxYWUtZDFmNy00NzRkLThkYWItZjBiNTJlNGE3MTA0XkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_SX300.jpg",
+        "trailer_url": "https://m.media-amazon.com/images/M/MV5BNWFjNGIxYWUtZDFmNy00NzRkLThkYWItZjBiNTJlNGE3MTA0XkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_SX300.jpg",
+        "imdb_rating": "7.4",
+        "rating": 2,
+        "movie_price": "44.00",
+        "director_first_name": "suresh",
+        "director_last_name": "n",
+        "actor_images": [
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg"
+        ]
+    },
+    {
+        "movie_id": 4,
+        "title": "Master",
+        "runtime": 115,
+        "plot_summary": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNWFjNGIxYWUtZDFmNy00NzRkLThkYWItZjBiNTJlNGE3MTA0XkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_SX300.jpg",
+        "trailer_url": "https://m.media-amazon.com/images/M/MV5BNWM0ZGRlMDYtMGIzZC00NTE5LWE2YjItMmJmOWYwMWUxZmZhXkEyXkFqcGdeQXVyMTY0MDk0NjE3._V1_SX300.jpg",
+        "imdb_rating": "7.5",
+        "rating": 5,
+        "movie_price": "120.00",
+        "director_first_name": "Raj",
+        "director_last_name": "r",
+        "actor_images": [
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg"
+        ]
+    },
+    {
+        "movie_id": 5,
+        "title": "Happy New Year",
+        "runtime": 115,
+        "plot_summary": "gang of amateur dancers takes part in a dancing competition to avenge their personal vendetta.",
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+        "trailer_url": "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+        "imdb_rating": "9.0",
+        "rating": 5,
+        "movie_price": "120.00",
+        "director_first_name": "kanagavel",
+        "director_last_name": "f",
+        "actor_images": [
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg",
+            "https://m.media-amazon.com/images/M/MV5BMjEwZGQwZWMtNTU4Zi00YWVlLTlhZTYtZjc2MzJmMGVmMDQwXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SX300.jpg"
+        ]
+    }
+]
