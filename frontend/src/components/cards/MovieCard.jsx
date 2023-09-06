@@ -8,14 +8,17 @@ import { useNavigate } from "react-router-dom";
 
 function MovieCard({ movie }) {
   const navigate = useNavigate();
-  // const { data, loading, error } = usePalette("https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg");
+  const { data, loading, error } = usePalette(movie?.poster_url);
   const navigateTo = (id) => {
     navigate(`/movie/${id}`);
   };
   return (
     <div className="card-container" onClick={() => navigateTo(movie?.movie_id)}>
       <div className="card-content">
-        <div className="card-image-container">
+        <div className="card-image-container" style={{
+          boxShadow:`rgb(240 212 103 / 48%) 0px 11px 16px, rgb(240 212 103) 0px 0px 0px`
+         
+        }}>
           <img src={movie?.poster_url} alt="moveie" />
         </div>
         <div className="card-labeling-content">
